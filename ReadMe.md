@@ -1,3 +1,5 @@
+# Vue CLI Version 3
+
 **Vue CLI is a full system for rapid Vue.js development** (https://cli.vuejs.org/)
 
 ## Creating a Project
@@ -8,7 +10,6 @@ Old cli:
 new cli: 
 > vue create myapp
 
-                    ## Vue CLI Version 3
 **Webpack Configuration**
 - Webpack config abstracted away (hidden)
 - Tweak webpack config in vue.config.js
