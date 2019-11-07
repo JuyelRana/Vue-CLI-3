@@ -10,3 +10,6 @@
 
 > npm uninstall vue-cli -g 
 
+### 03. Create new project
+> vue create project-name 
+
