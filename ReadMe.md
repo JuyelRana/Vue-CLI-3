@@ -7,5 +7,6 @@
 
 ### 02. Install and uninstall Vue CLI
 > npm install -g @vue/cli
+
 > npm uninstall vue-cli -g 
 
