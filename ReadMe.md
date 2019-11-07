@@ -17,7 +17,7 @@ npm uninstall vue-cli -g
 ```
 vue create project-name 
 ```
-## Vue-CLI3-Tutorial#02-Using the new cli
+## Vue-CLI3-Tutorial#03-Using the new cli
 ### 04. Run command
 ```
 Service run: npm run serve
