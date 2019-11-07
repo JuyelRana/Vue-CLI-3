@@ -28,4 +28,4 @@ new cli:
 
 ##Graphical User Interface
 - Easily create and manage projects
-- Manage and install dependencies & plugins
+- Manage and install dependencies & plugins.
