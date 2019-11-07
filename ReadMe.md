@@ -17,3 +17,13 @@ npm uninstall vue-cli -g
 ```
 vue create project-name 
 ```
+### 04. Run command
+```
+Service run: npm run serve
+```
+```
+Production Build: npm run build
+```
+```
+Finding Errors: npm run lint
+```
