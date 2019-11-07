@@ -2,7 +2,7 @@
 
 ## Vue-CLI3-Tutorial#02-Using the new cli
 
-### 01. [Download] and install Nodejs (https://nodejs.org/en/download/)
+### 01. [Download](https://nodejs.org/en/download/) and install Nodejs 
 ```
 Check nodejs version: node -v
 ```
