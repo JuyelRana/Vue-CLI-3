@@ -28,3 +28,8 @@ Production Build: npm run build
 ```
 Finding Errors: npm run lint
 ```
+## Vue-CLI3-Tutorial#04-Custom Presets
+### 05. Create new custom project
+```
+vue create project-name
+```
