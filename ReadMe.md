@@ -8,24 +8,24 @@ Old cli:
 new cli: 
 > vue create myapp
 
-                    ##Vue CLI Version 3
+                    ## Vue CLI Version 3
 **Webpack Configuration**
 - Webpack config abstracted away (hidden)
 - Tweak webpack config in vue.config.js
 - Plugins can edit the webpack config too
 
-##Plugins
+## Plugins
 - Extend the config & functionality of our app
 - Like normal dependencies, but can also:
       - Edit the webpack config
       - Edit source files (e.g. templates)
       - Add extra commands to the CLI	 
 
-##Instant Prototyping 
+## Instant Prototyping 
 - Rapidly protype single, standalone components
 - No need to set up a Vue project to develop single components
 - Good when you quicly want to work on an idea 	  
 
-##Graphical User Interface
+## Graphical User Interface
 - Easily create and manage projects
 - Manage and install dependencies & plugins.
