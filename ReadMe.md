@@ -49,5 +49,10 @@ Where do you prefer placing config for Babel, PostCSS, ESLint, etc.? In dedicate
 Save this as a preset for future projects? Yes
 ```
 Save preset as: juyel-custom2
-
+```
+## Vue-CLI3-Tutorial#05-Plugins
+### 06. Add a new plugins
+```
+vue add plugin-name : vue add vuetify
+```
 
