@@ -74,3 +74,7 @@ vue add plugin-name : vue add vuetify
 - Initiate your project : firebase init 
 - Deploy your website : firebase deploy
 
+## Vue-CLI3-Tutorial#07-Instant Prototyping
+- Global run vue: npm intall -g @vue/cli-service-global
+- Run a global vue file : vue serve filename.vue --> vue serve online.vue
+
