@@ -64,4 +64,9 @@ Save preset as: juyel-custom2
 ```
 vue add plugin-name : vue add vuetify
 ```
+## Vue-CLI3-Tutorial#06-Build and Deploy to Firebase
+### 07. Go to [Firebas](https://firebase.google.com/) create a free account
+
+- Create a new project
+- Install firebase tools: npm install -g firebase-tools
 
