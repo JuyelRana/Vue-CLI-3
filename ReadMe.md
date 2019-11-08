@@ -42,9 +42,10 @@ Check the features needed for your project: Babel, Router, Vuex, CSS Pre-process
 ```
 Use history mode for router? (Requires proper server setup for index fallback in production) Yes
 ```
-```
+<p>
 Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported by default): Sass/SCSS (with node-sass)
-```
+</p>
+
 ```
 Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection)Lint on save
 ```
