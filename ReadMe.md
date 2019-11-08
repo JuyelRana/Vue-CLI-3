@@ -69,4 +69,8 @@ vue add plugin-name : vue add vuetify
 
 - Create a new project
 - Install firebase tools: npm install -g firebase-tools
+- Check firebase version : firebase --version 
+- Sign in to google : firebase login
+- Initiate your project : firebase init 
+- Deploy your website : firebase deploy
 
